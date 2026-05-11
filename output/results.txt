@@ -1,0 +1,3 @@
+JD-1 - Kakao (Seoul) (ML Engineer): Sneha Patel(0.57), Karan Mehta(0.53), Arjun Sharma(0.40)
+JD-2 - Naver (Seongnam) (Backend Engineer): Rahul Gupta(0.81), Ananya Krishnan(0.28), Deepika Rao(0.19)
+JD-3 - Line (Seoul) (Frontend Engineer): Aditya Kumar(0.67), Priya Nair(0.58), Ananya Krishnan(0.35)
